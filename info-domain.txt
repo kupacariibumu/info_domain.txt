@@ -1,8 +1,16 @@
+npszppbuxxv7o1bqu1v1dqhwb6aks1688545651.darnuid.imrworldwide.com:443
+
 analytics.mintegral.net:443
 
+dt.adsafeprotected.com:443
 pixel.adsafeprotected.com:443
 
 adx.ads.vungle.com:443
+
+ads.admarvel.com:443
+
+c4d-cdn.adcolony.com:443
+c4dm.adcolony.com:443
 
 ms4.applvn.com:443
 ms.applovin.com:443
