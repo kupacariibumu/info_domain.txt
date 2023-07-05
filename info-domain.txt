@@ -1,1 +1,4 @@
+events3.adcolony.com:443
+rpc.tapjoy.com:443
+api.adfly.global:443
 api.v2.jungleboxes.com:443
