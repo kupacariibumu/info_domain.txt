@@ -1,8 +1,11 @@
+pixel.adsafeprotected.com:443
+
 ms4.applvn.com:443
 ms.applovin.com:443
 ms.applvn.com:443
 img.applovin.com:443
 res1.applovin.com:443
+
 prod-mediate-events.applovin.com:443
 assets.applovin.com:80
 events3.adcolony.com:443
