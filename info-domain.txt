@@ -1,5 +1,8 @@
 npszppbuxxv7o1bqu1v1dqhwb6aks1688545651.darnuid.imrworldwide.com:443
 
+secure-gl.imrworldwide.com:443
+insight.adsrvr.org:443
+
 analytics.mintegral.net:443
 
 static.adsafeprotected.com:443
