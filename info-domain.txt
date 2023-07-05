@@ -1,3 +1,5 @@
+analytics.mintegral.net:443
+
 pixel.adsafeprotected.com:443
 
 ms4.applvn.com:443
