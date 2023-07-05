@@ -4,6 +4,7 @@ secure-gl.imrworldwide.com:443
 insight.adsrvr.org:443
 
 analytics.mintegral.net:443
+assets.mintegral.com:80
 
 static.adsafeprotected.com:443
 mobile.adsafeprotected.com:443
